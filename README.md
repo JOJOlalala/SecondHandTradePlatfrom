@@ -1,0 +1,2 @@
+# SecondHandTradePlatfrom
+SoftwareEngineering Homework2
